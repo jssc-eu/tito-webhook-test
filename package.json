@@ -1,0 +1,29 @@
+{
+  "name": "tito-webhook-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jssc-eu/tito-webhook-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jssc-eu/tito-webhook-test/issues"
+  },
+  "homepage": "https://github.com/jssc-eu/tito-webhook-test#readme",
+  "dependencies": {
+    "fastify": "^3.18.0",
+    "fastify-helmet": "^5.3.1",
+    "fastify-raw-body": "^3.1.0",
+    "fastify-sensible": "^3.1.1"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
